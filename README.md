@@ -5,7 +5,7 @@ This project was developed as an **in-class assignment for Computer Science 330 
 
 ![Java](https://img.shields.io/badge/Language-Java-red?logo=java) 
 ![Jackson](https://img.shields.io/badge/JSON-Jackson-blue) 
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ---
 
